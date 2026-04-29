@@ -7,7 +7,7 @@ shareBtn.onclick = () => {
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
-    window.open("https://whatsapp.com/channel/0029Vb7CxEGKmCPQpUpl072I");
+    window.open("https://s.shopee.co.id/8ASXBLIV3m");
 }
 
 function openFacebookPage() {
